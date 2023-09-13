@@ -8,5 +8,8 @@
 // // No Levels yet 😞
 // // Group: Non-Official Levels
 // // // Level: Ukraine Idler
+// // // Level Changelog:
+// // // v1.0.0
+// // // // Initial released
 // // Group: Level Errors or Not working
 // // No Levels yet 😞
